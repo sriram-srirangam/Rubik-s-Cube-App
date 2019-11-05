@@ -1,2 +1,2 @@
-FLASK_APP=rubiks.py
+FLASK_APP=backend/rubiks.py
 FLASK_ENV=development

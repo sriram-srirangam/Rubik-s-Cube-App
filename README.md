@@ -1,1 +1,1 @@
-# Rubik-s-Cube-App
+# Rubiks Cube App
